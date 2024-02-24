@@ -1,0 +1,35 @@
+.box{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin: 3rem 0rem;
+}
+.parent{
+    width: 66%;
+    margin: auto;
+}
+.box i{
+    display: block;
+    font-size: 2rem;
+    color: blueviolet;
+}
+p{
+    font-size: 1.5rem;
+}
+.word{
+    font-size: 1rem;
+}
+button{
+    border: none;
+    background-color: brown;
+    color: white;
+    padding:0.6rem 1rem ;
+   border-radius: 7px;
+}
+button i{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
